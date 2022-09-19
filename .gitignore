@@ -1,0 +1,14 @@
+.bundle
+.byebug_history
+.yardoc
+*.gem
+*.gemfile.lock
+coverage
+doc
+docs.zip
+Gemfile.lock
+test/dummy/db/migrate
+test/dummy/log/
+test/dummy/tmp/
+vendor
+.idea/
